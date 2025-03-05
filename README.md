@@ -36,3 +36,4 @@ Las dependencias a utilizar, todas instaladas a través de npm
     "y": "^0.3.2"
   },# hospital_m5_real
 # ts_hospital_5
+# m6_2
