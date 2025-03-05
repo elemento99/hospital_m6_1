@@ -1,4 +1,7 @@
-Cambié supabase, por un servidor propio, esté está en http://localhost:5000
+
+** cambios: Se utiliza el cache first en la PWA, el manifiesto se encuentra dentro del vite.config.ts
+
+El proyecto tiene un backend propio, esté está en http://localhost:5000
 Los queries para la base de datos estan en la carpeta database, en queries.sql
 
 Para ir a la ruta protegida /admin 
